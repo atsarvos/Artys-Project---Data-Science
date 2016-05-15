@@ -40,3 +40,18 @@ Part3 - Working Files
     
     3.2.3 -> 3 - CARTS.ipynb
     
+    
+
+### TODO
+
+- [x] Logistic Regression
+- [x] Linear Discriminant Analysis
+- [x] Classification and Regression Trees
+- [ ] Random Forests
+- [ ] Support Vector Machines
+- [ ] Gradient Boosting (& Xtreme Boosting?)
+- [ ] Neural Network
+
+
+
+
