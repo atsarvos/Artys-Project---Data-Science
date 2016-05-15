@@ -9,9 +9,8 @@ The following data science project will attempt to produce a variety of models i
 Some predictive techniques which will invariably produced biased predictions. Often the methods we employ to gain a better prediction will lack interpretability, whereas the methods we employ to gain a higher level of interpretation will be biased. This tradeoff will be accessed and the model chosen will be one that maximises the area under the curve under.
 
 Proposed Techniques:
-- Linear Regression (with and without regularisation)
-- Linear Discriminant Analysis
 - Logistic Regression (with and without regularisation)
+- Linear Discriminant Analysis
 - Classification and Regression Trees and Multivariate Adaptive Regression Splines
 - Boosting methods (Random Forests and Gradient Boosting)
 - Support Vector Machines
