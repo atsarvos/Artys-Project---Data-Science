@@ -28,7 +28,7 @@ Part2 - The Data
     
     2.2 -> cs-test.csv     (Original)
     
-    2.2 -> training.csv    (Pre-Processing - null values imputed)
+    2.2 -> training.csv    (Pre-Processing - null values imputed) [Check out DataCleaning.ipynb]
     
 Part3 - Working Files
 
