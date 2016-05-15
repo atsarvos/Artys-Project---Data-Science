@@ -17,14 +17,26 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 
 Structure of this Repo:
 Part1 - Context
+
     1.1 -> Business_Understanding
+    
     1.2 -> Data Dictionary
+    
 Part2 - The Data
+
     2.1 -> cs-training.csv (Original)
+    
     2.2 -> cs-test.csv     (Original)
+    
     2.2 -> training.csv    (Pre-Processing - null values imputed)
+    
 Part3 - Working Files
+
     3.1 -> Model Progress
+    
     3.2.1 -> 1 - LogisticRegression.ipynb
+    
     3.2.2 -> 2 - LDA.ipynb
+    
     3.2.3 -> 3 - CARTS.ipynb
+    
