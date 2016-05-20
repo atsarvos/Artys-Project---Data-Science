@@ -44,12 +44,12 @@ Part3 - Working Files
 
 ### TODO
 
-- [x] Logistic Regression
 - [x] Linear Discriminant Analysis
+- [x] Logistic Regression
 - [x] Classification and Regression Trees
-- [ ] Random Forests
+- [x] Random Forests
+- [x] Gradient Boosting 
 - [ ] Support Vector Machines
-- [ ] Gradient Boosting (& Xtreme Boosting?)
 - [ ] Neural Network
 
 
