@@ -15,34 +15,48 @@ From Kaggle:
 The AUC, which is part of performance metric of a logistic regression, is a commonly used evaluation metric for binary classification problems like predicting a Buy or Sell decision (binary decision). The interpretation is that given a random positive observation and negative observation, the AUC gives the proportion of the time you guess which is correct. It is less affected by sample balance than accuracy. A perfect model will score an AUC of 1, while random guessing will score an AUC of around 0.5, a meager 50% chance on each other.
 
 
-Structure of this Repo:
-Part1 - Context
+### Structure of this Repo:
+** Part1 - Context ** 
 
-    1.1 -> Business_Understanding
-    
-    1.2 -> Data Dictionary
-    
-Part2 - The Data
+[1.0 Data Understanding](0_Business_Understanding)
 
-    2.1 -> cs-training.csv (Original)
-    
-    2.2 -> cs-test.csv     (Original)
-    
-    2.2 -> training.csv    (Pre-Processing - null values imputed) [Check out DataCleaning.ipynb]
-    
-Part3 - Working Files
+[1.1 Data Understanding](1_Data_Understanding.ipynb)
 
-    3.1 -> Model Progress
+[1.2 Data Dictionary](Data Dictionary.xls)
+
     
-    3.2.1 -> 1 - LogisticRegression.ipynb
+** Part2 - The Data **
+
+[2.1 Training Data (Original)](cs-training.csv)
+
+[2.2 Test Data (Original)](cs-test.csv)   
+
+[2.3 Training Data (Pre-Processed)](training.csv)    
+
+[2.3 Test Data (Pre-Processed))](test.csv)  
+
+[2.4 Data Cleaning](2_DataCleaning.ipynb)  
     
-    3.2.2 -> 2 - LDA.ipynb
-    
-    3.2.3 -> 3 - CARTS.ipynb
-    
-    
-    
-[Read more words!](1_Data_Understanding.ipynb)
+** Part3 - Working Files **
+
+[3.1 Linear Discriminant Analysis](3_LDA..ipynb)  
+
+[3.2 Logistic Regression ](4_LogisticRegression.ipynb)  
+
+[3.3 Classification and Regression Trees (CART)](5_CARTS.ipynb)  
+
+[3.4 Random Forests](6_RandomForests.ipynb)  
+
+[3.5 Gradient Boosting](7_GradientBoosting.ipynb)  
+
+[3.6 Support Vector Machines (SVM) - Not Done](8_SVMs.ipynb)  
+
+[3.7 Neural Networks - Not Done](9_NeuralNetworks.ipynb)
+
+** Part4 - Presentation **
+
+[4.0 Presentation](Presentation.ipynb)
+
 
 ### TODO
 
