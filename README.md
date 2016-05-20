@@ -41,6 +41,8 @@ Part3 - Working Files
     3.2.3 -> 3 - CARTS.ipynb
     
     
+    
+[Read more words!](docs/1_Data_Understanding.ipynb)
 
 ### TODO
 
