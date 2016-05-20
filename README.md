@@ -42,7 +42,7 @@ Part3 - Working Files
     
     
     
-[Read more words!](docs/1_Data_Understanding.ipynb)
+[Read more words!](1_Data_Understanding.ipynb)
 
 ### TODO
 
