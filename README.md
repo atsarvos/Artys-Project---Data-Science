@@ -34,7 +34,7 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 
 [2.3 Training Data (Pre-Processed)](training.csv)    
 
-[2.3 Test Data (Pre-Processed))](test.csv)  
+[2.3 Test Data (Pre-Processed)](test.csv)  
 
 [2.4 Data Cleaning](2_DataCleaning.ipynb)  
     
