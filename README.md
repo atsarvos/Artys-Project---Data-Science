@@ -15,8 +15,9 @@ From Kaggle:
 The AUC, which is part of performance metric of a logistic regression, is a commonly used evaluation metric for binary classification problems like predicting a Buy or Sell decision (binary decision). The interpretation is that given a random positive observation and negative observation, the AUC gives the proportion of the time you guess which is correct. It is less affected by sample balance than accuracy. A perfect model will score an AUC of 1, while random guessing will score an AUC of around 0.5, a meager 50% chance on each other.
 
 
-### Structure of this Repo:
-** Part1 - Context ** 
+## Structure of this Repo:
+
+### Part 1 - Context
 
 [1.0 Data Understanding](0_Business_Understanding)
 
@@ -25,7 +26,7 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 [1.2 Data Dictionary](Data Dictionary.xls)
 
     
-** Part2 - The Data **
+### Part 2 - The Data 
 
 [2.1 Training Data (Original)](cs-training.csv)
 
@@ -37,7 +38,7 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 
 [2.4 Data Cleaning](2_DataCleaning.ipynb)  
     
-** Part3 - Working Files **
+### Part 3 - Working Files 
 
 [3.1 Linear Discriminant Analysis](3_LDA..ipynb)  
 
@@ -53,7 +54,7 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 
 [3.7 Neural Networks - Not Done](9_NeuralNetworks.ipynb)
 
-** Part4 - Presentation **
+### Part 4 - Presentation 
 
 [4.0 Presentation](Presentation.ipynb)
 
