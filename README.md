@@ -19,7 +19,7 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 
 ### Part 1 - Context
 
-[1.0 Data Understanding](NOTEBOOKS/0_Business_Understanding)
+[1.0 Data Understanding](NOTEBOOKS/0_Business_Understanding.ipynb)
 
 [1.1 Data Understanding](NOTEBOOKS/1_Data_Understanding.ipynb)
 
