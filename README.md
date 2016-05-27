@@ -40,7 +40,7 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
     
 ### Part 3 - Working Files 
 
-[3.1 - Linear Discriminant Analysis](NOTEBOOKS/3_LDA..ipynb)  
+[3.1 - Linear Discriminant Analysis](NOTEBOOKS/3_LDA.ipynb)  
 
 [3.2 - Logistic Regression ](NOTEBOOKS/4_LogisticRegression.ipynb)  
 
