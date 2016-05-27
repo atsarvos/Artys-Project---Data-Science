@@ -50,9 +50,9 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 
 [3.5 - Gradient Boosting](NOTEBOOKS/7_GradientBoosting.ipynb)  
 
-[3.6 - Support Vector Machines (SVM) - Not Done](NOTEBOOKS/8_SVMs.ipynb)  
+[3.6 - Support Vector Machines (SVM)](NOTEBOOKS/8_SVMs.ipynb)  
 
-[3.7 - Neural Networks - Not Done](NOTEBOOKS/9_NeuralNetworks.ipynb)
+[3.7 - Neural Networks](NOTEBOOKS/9_NeuralNetworks.ipynb)
 
 ### Part 4 - Presentation 
 
@@ -66,8 +66,8 @@ The AUC, which is part of performance metric of a logistic regression, is a comm
 - [x] Classification and Regression Trees
 - [x] Random Forests
 - [x] Gradient Boosting 
-- [ ] Support Vector Machines
-- [ ] Neural Network
+- [ ] Support Vector Machines (Incomplete)
+- [ ] Neural Network (Not Started)
 
 
 
