@@ -1,7 +1,7 @@
 # Artys-Project---Data-Science
 The Repository will house the working files for my General Assembly Project
 
-Initially i thought of using a dataset from the following websi[https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#]
+Initially i thought of using a dataset from the following website [https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#]
 
 
 However I've gone with a dataset I found on credit scoring on the Kaggle website, purely because of the greater number of observations available. The training dataset has 150k observations and the test 100k.
